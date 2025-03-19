@@ -2,7 +2,6 @@
 
 
 - 🔭 I'm currently working on improving my proficiency
-- 😄 Pronouns: us
 
 <!--
 **karlygaw/karlygaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
